@@ -1,3 +1,10 @@
+
+![rest-api](https://github.com/user-attachments/assets/152204a6-427d-48b9-98b3-be41c517b2eb)
+
+
+![recipes api](https://github.com/user-attachments/assets/2e51bdfe-8740-4a0c-ba77-aab289783a72)
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
